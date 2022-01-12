@@ -1,3 +1,6 @@
+nose_x=0;
+nose_y=0;
+
 function preLoad()
 {
 }
